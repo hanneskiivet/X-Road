@@ -1,5 +1,5 @@
-
 ![X-Road logo](xroad_logo_small.png) ![European Regional Development Fund](https://github.com/e-gov/RIHA-Frontend/raw/master/logo/EU/EU.png "European Regional Development Fund - DO NOT REMOVE THIS IMAGE BEFORE 01.11.2022")
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhanneskiivet%2FX-Road.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhanneskiivet%2FX-Road?ref=badge_shield)
 
 ## About the repository
 
@@ -96,3 +96,7 @@ Consultational services for deploing independent X-Road instances should be obta
 * [Roksnet Solutions OÜ](https://roksnet.com)
  
 No support for X-Road deployment is provided here.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fhanneskiivet%2FX-Road.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fhanneskiivet%2FX-Road?ref=badge_large)
